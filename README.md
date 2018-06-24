@@ -8,8 +8,8 @@ Features include:
 - Editing your profile 
 - Viewing a list of exercises to choose from to create a workout
 - Creating workouts, including sets/reps/duration for each exercise
-- Following other users
-- Liking and commenting on their own and other users' workout posts 
+- Following other users, viewing other users' profiles
+- Liking and commenting on your own and other users' workout posts 
 - Searching for users
 
 ## Motivation 
