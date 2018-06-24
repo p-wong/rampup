@@ -16,6 +16,8 @@ Features include:
 
 This is a student project, created for educational purposes. The main goal of this project was to build a pure server-side application with Ruby on Rails.
 
+This application was created by Patricia Wong, Rani Shah, Manuel Grullon, and Adam Towers. 
+
 ## Demo 
 
 ![alt-text](https://github.com/p-wong/rampup/blob/master/rampup_demo.gif)
