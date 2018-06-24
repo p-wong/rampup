@@ -1,24 +1,36 @@
-# README
+# RAMPUP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A fitness social network where users can create a profile, post workouts, follow other users, and like/comment on their workouts. 
 
-Things you may want to cover:
+Features include:
+- Full authentication & authorization
+- Creating a profile 
+- Editing your profile 
+- Viewing a list of exercises to choose from to create a workout
+- Creating workouts, including sets/reps/duration for each exercise
+- Following other users
+- Liking and commenting on their own and other users' workout posts 
+- Searching for users
 
-* Ruby version
+## Motivation 
 
-* System dependencies
+This is a student project, created for educational purposes. The main goal of this project was to build a pure server-side application with Ruby on Rails.
 
-* Configuration
+## Demo 
 
-* Database creation
+![alt-text](https://github.com/p-wong/rampup/blob/master/rampup_demo.gif)
 
-* Database initialization
+## Installation 
 
-* How to run the test suite
+Set up the environment and boot up rails to run the application. 
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+bundle install
+rails db:migrate
+rails db:seed
+rails s
+```
 
-* Deployment instructions
+## Tech Used
 
-* ...
+Ruby on Rails, Bootstrap
